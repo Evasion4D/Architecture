@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.1.0",
+	"VersionName": "2.1.1",
 	"FriendlyName": "Architecture +",
 	"Description": "",
 	"Category": "Modding",
@@ -26,6 +26,6 @@
 			"SemVersion": "2.0.0"
 		}
 	],
-	"SemVersion": "2.1.0",
+	"SemVersion": "2.1.1",
 	"GameVersion": ">=416835"
 }
